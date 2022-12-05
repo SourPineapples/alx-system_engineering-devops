@@ -1,2 +1,2 @@
 #!/bin/bash
-pr | lpr "Hello, World"
+"Hello, World"
